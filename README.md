@@ -1,0 +1,14 @@
+# zenltexx-user 7.0 NRD90M G928FXXS5CRH1 release-keys
+- manufacturer: samsung
+- platform: exynos5
+- codename: zenlte
+- flavor: zenltexx-user
+- release: 7.0
+- id: NRD90M
+- incremental: G928FXXS5CRH1
+- tags: release-keys
+- fingerprint: samsung/zenltexx/zenlte:7.0/NRD90M/G928FXXS5CRH1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: zenltexx-user-7.0-NRD90M-G928FXXS5CRH1-release-keys
+- repo: samsung_zenlte_dump
